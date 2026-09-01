@@ -1,0 +1,5 @@
+Listening on netlink 23 group 2; output=/tmp/2026-09-01_17-50-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_full208_clientIP-192.168.10.79_APIP-192.168.10.114.bin; target=0 records; mode=binary
+record=1 netlink_bytes=8208 payload_bytes=8192 format_id=1
+record=100 netlink_bytes=8208 payload_bytes=8192 format_id=1
+record=200 netlink_bytes=8208 payload_bytes=8192 format_id=1
+Capture complete: records=294 payload_bytes=2408448 output_bytes=2408448 mode=binary

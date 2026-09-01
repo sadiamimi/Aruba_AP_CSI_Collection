@@ -1,0 +1,39 @@
+{
+  "source_file": "2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.txt",
+  "source_bytes": 1675264,
+  "source_sha256": "6b82a322e16ecbfa32c53190fb15c26533548f78b2ace638ed29f2e19f04f5cc",
+  "marker": "CSI record:",
+  "source_record_count": 294,
+  "records_per_file": 100,
+  "prefix_bytes_repeated_in_each_chunk": 96,
+  "chunks": [
+    {
+      "part": 1,
+      "filename": "2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-001.records-000000-000099.txt",
+      "source_record_start": 0,
+      "source_record_end": 99,
+      "record_count": 100,
+      "bytes": 570896,
+      "sha256": "04717a306c52db27608b5c07ec5d2132116f75ad24a76dcb0f43e318f26293ba"
+    },
+    {
+      "part": 2,
+      "filename": "2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-002.records-000100-000199.txt",
+      "source_record_start": 100,
+      "source_record_end": 199,
+      "record_count": 100,
+      "bytes": 570896,
+      "sha256": "b04ec1e8364f220035dadcacea6eb12baf5e7461cfb61998a1d4126fa73c39ac"
+    },
+    {
+      "part": 3,
+      "filename": "2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-003.records-000200-000293.txt",
+      "source_record_start": 200,
+      "source_record_end": 293,
+      "record_count": 94,
+      "bytes": 533664,
+      "sha256": "e506ced9ba0a589801d2d6ecb937aa55da371d2d062cadf9b9048c3a7e225c37"
+    }
+  ],
+  "verification": "chunk record blocks reconstruct the source byte-for-byte"
+}

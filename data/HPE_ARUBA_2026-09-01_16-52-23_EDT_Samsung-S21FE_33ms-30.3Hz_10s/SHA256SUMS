@@ -1,0 +1,15 @@
+b70fb0806df1360428993fa01ca0498c1b44f816ed7e1af9e3c4b3626cddc5cd  ./2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114-parsed.csv
+0db4d9f2cf4e6efc1ad716975a03df64bffc2fb936e62eecdb0e0ebd44c6af71  ./2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114-parsed.json
+8d787900b1bbefd9ff857908cf28224979130eaa1323852469d0c25663941726  ./2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114-parsed.npz
+6b82a322e16ecbfa32c53190fb15c26533548f78b2ace638ed29f2e19f04f5cc  ./2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.txt
+32aeccd12113f67ac3634417e426a32687cc28f8831b14557155a5213a38e64b  ./keepalive-ping.log
+0b81fec201eab714876861b8151e147b155f4e0fe9aef242307bd9699d4826b8  ./native-csimond-check.json
+f7b2d7be36c57bb1acaf7fa5feb764f5ddb449913b171e2a175ca82734e51f12  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-001.records-000000-000099-parsed.json
+04717a306c52db27608b5c07ec5d2132116f75ad24a76dcb0f43e318f26293ba  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-001.records-000000-000099.txt
+7d7e936f9ca099f4b50edbc75a2b58484411bd5ead39940ea45b2300c8dd6a29  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-002.records-000100-000199-parsed.json
+b04ec1e8364f220035dadcacea6eb12baf5e7461cfb61998a1d4126fa73c39ac  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-002.records-000100-000199.txt
+7fb4b83641facb865e68415cb6327ec27ef63d71d5b6134c84ca0697ce4b937e  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-003.records-000200-000293-parsed.json
+e506ced9ba0a589801d2d6ecb937aa55da371d2d062cadf9b9048c3a7e225c37  ./parser-chunks-100/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114.part-003.records-000200-000293.txt
+9600b6587ec857dd130f9daa167e40ab2e6e3eeb928400e1221fb37eda403c33  ./parser-chunks-100/manifest.json
+dc1c9503f1de3862998f3686564fb19fe175521b4fbd114a5af7b663bbc54c2b  ./plots/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114-parsed-channel-frequency-response.png
+04f1cbeb3296064aeb1db3dd9fa5455e956ca5727dd18da8cce8fd473566b81f  ./plots/2026-09-01_16-52-23_EDT_Samsung-S21FE_33ms-30.3Hz_10s_HPE-native-csimond_clientIP-192.168.10.79_APIP-192.168.10.114-parsed-csi-deviation.png
